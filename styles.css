@@ -1,0 +1,57 @@
+/* Place your CSS styles in this file */
+
+body {
+  background-color: rgb(232, 245, 247);
+}
+
+h1 {
+    text-align: center;
+    font-family: "Courier New";
+    font-weight: normal;
+    color: plum
+}
+
+h2 {
+    text-align: center;
+    font-family: "Courier New";
+    font-weight: lighter;
+    color: rgb(133, 91, 133)
+}
+
+h3 {
+    font-family: "Courier New";
+    font-weight: normal;
+    color: purple;
+}
+
+figcaption {
+    font-family: "Courier New";
+    font-weight: lighter;
+    color: rgb(22, 1, 22);
+}
+
+p {
+  text-align: center;
+  font-family: "Courier New";
+  font-weight: normal;
+  color: purple;
+}
+
+a {
+  text-align: center;
+  font-family: "Courier New";
+  font-weight: normal;
+  color: purple;
+}
+
+.footer {
+  text-align: center;
+  font-family: "Courier New";
+  font-weight: lighter;
+  color: blue;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+}
